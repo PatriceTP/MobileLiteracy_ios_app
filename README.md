@@ -1,4 +1,6 @@
 MobileLiteracy_IOS_APP
 ======================
 
-Mobile APP Project Files
+Mobile Literacy APP Development.
+
+Store the ios application development files here.
